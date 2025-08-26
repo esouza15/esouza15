@@ -69,5 +69,5 @@ Minha especialidade é transformar ideias em realidade, desde a concepção e pr
 
 - **Email:** esthefison@gmail.com 
 - **LinkedIn:** https://www.linkedin.com/in/esthefison-souza-aa00bb292/ 
-- [cite_start]**Behance (Portfólio de Design):** https://www.behance.net/esthefison
+- **Behance (Portfólio de Design):** https://www.behance.net/esthefison
 
