@@ -7,11 +7,11 @@
 
 Sou um profissional apaixonado por criar soluções digitais que unem design, tecnologia e estratégia de negócio. Com mais de 15 anos de experiência, minha carreira foi construída sobre três pilares: **Web Design**, **Desenvolvimento Front-End** e **Marketing Digital**.
 
-[cite_start]Minha especialidade é transformar ideias em realidade, desde a concepção e prototipagem no Figma [cite: 8, 14] [cite_start]até o desenvolvimento [cite: 7][cite_start], a otimização para SEO e a análise de performance com Google Analytics. Atualmente, estou cursando **Tecnologia da Informação na UFMS** para aprofundar minhas habilidades técnicas e aplicá-las na criação de produtos digitais de alto impacto.
+Minha especialidade é transformar ideias em realidade, desde a concepção e prototipagem no Figma até o desenvolvimento, a otimização para SEO e a análise de performance com Google Analytics. Atualmente, estou cursando **Tecnologia da Informação na UFMS** para aprofundar minhas habilidades técnicas e aplicá-las na criação de produtos digitais de alto impacto.
 
 - 🎯 Foco em oportunidades como **Web Designer Front-End ou Desenvolvedor WordPress Sênior**.
 - 🌱 Aprofundando meus conhecimentos em **JavaScript, PHP e boas práticas de Banco de Dados** para além do ecossistema WordPress.
-- [cite_start]🤖 Uso intensivo de **IA Generativa** para otimizar o fluxo de trabalho, desde a criação de imagens e copy até o planejamento de projetos e a solução de bugs.
+- 🤖 Uso intensivo de **IA Generativa** para otimizar o fluxo de trabalho, desde a criação de imagens e copy até o planejamento de projetos e a solução de bugs.
 
 ---
 
@@ -22,7 +22,7 @@ Sou um profissional apaixonado por criar soluções digitais que unem design, te
     <td valign="top" width="50%">
       <strong>🎨 Design & UI/UX</strong><br>
       <ul>
-        [cite_start]<li>Figma </li>
+        <li>Figma </li>
         <li>Adobe Photoshop </li>
         <li>Corel Draw </li>
         <li>Wireframing & Prototipagem </li>
@@ -67,7 +67,7 @@ Sou um profissional apaixonado por criar soluções digitais que unem design, te
 
 ## 📫 Como me encontrar
 
-- [cite_start]**Email:** esthefison@gmail.com 
-- [cite_start]**LinkedIn:** https://www.linkedin.com/in/esthefison-souza-aa00bb292/ 
+- **Email:** esthefison@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/esthefison-souza-aa00bb292/ 
 - [cite_start]**Behance (Portfólio de Design):** https://www.behance.net/esthefison
 
