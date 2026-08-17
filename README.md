@@ -13,13 +13,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-> **Desenvolvedor Full Stack Sênior | Especialista em Arquitetura WordPress & Performance**
+> **Engenheiro de Software Full Stack | Arquiteto de Soluções Web**
 
-Com mais de 15 anos de experiência na interseção entre Tecnologia e Negócios, atuo hoje como **Consultor de Soluções Técnicas**. Minha especialidade é desenvolver ecossistemas digitais robustos, indo muito além da instalação de temas.
+Engenheiro de Software Full Stack - Arquiteto de Soluções Web, com mais de 10 anos de experiência na interseção entre **Sistema Web e Negócios**. Atuo na concepção e desenvolvimento de produtos digitais escaláveis, performáticos e orientados a resultado.
 
-Meu foco é **Engenharia de Software aplicada ao WordPress**: crio plugins customizados, integro APIs complexas e otimizo aplicações para alta performance (WPO) e SEO Técnico. Combino a lógica de back-end (PHP/MySQL) com a sensibilidade de front-end (JS/UX) para entregar produtos que convertem.
+Especializado em PHP (**Laravel** e ecossistema **WordPress customizado**), **Python** e **UI Engineering** (Tailwind CSS/Blade). Experiência end-to-end na entrega de aplicações dinâmicas e produtos SaaS, combinando modelagem relacional robusta, DevOps (Docker), **gestão ágil** com stakeholders e liderança de parceiros remotos.
 
-🎓 **Formação:** Graduando em **Tecnologia da Informação (UFMS)**, com foco em Engenharia de Software e Sistemas Distribuídos.
+🎓 **Formação:** Graduado em **Tecnologia da Informação (UFMS)**, com foco em Engenharia de Software e Sistemas Distribuídos.
 
 ---
 
@@ -32,17 +32,17 @@ Minha caixa de ferramentas é focada em **escalabilidade, performance e automaç
     <td valign="top" width="33%">
       <h3>⚙️ Back-end & Arquitetura</h3>
       <ul>
-        <li><strong>Linguagens:</strong> PHP 8, Python (Automação)</li>
+        <li><strong>Linguagens:</strong> PHP - Laravel, Python (Automação)</li>
         <li><strong>WordPress Core:</strong> Desenvolvimento de Temas & Plugins, Hooks API</li>
         <li><strong>Banco de Dados:</strong> MySQL, Otimização de Queries</li>
-        <li><strong>Infra:</strong> Linux, Apache, cPanel/FTP</li>
+        <li><strong>Infra:</strong> Linux, Apache, AWS.</li>
       </ul>
     </td>
     <td valign="top" width="33%">
       <h3>🎨 Front-end & UI Engineering</h3>
       <ul>
         <li><strong>Core:</strong> JavaScript (ES6+), HTML5 Semântico, CSS3</li>
-        <li><strong>Frameworks:</strong> Bootstrap, jQuery</li>
+        <li><strong>Frameworks:</strong> Tailwind CSS, Bootstrap, jQuery</li>
         <li><strong>Design to Code:</strong> Figma (Pixel-Perfect Implementation)</li>
         <li><strong>Performance:</strong> Core Web Vitals, Lazy Loading, Minification</li>
       </ul>
@@ -52,7 +52,7 @@ Minha caixa de ferramentas é focada em **escalabilidade, performance e automaç
       <ul>
         <li><strong>Analytics:</strong> GA4, Google Tag Manager (Implementação Técnica)</li>
         <li><strong>SEO Técnico:</strong> Schema Markup, Yoast/RankMath</li>
-        <li><strong>IA:</strong> Engenharia de Prompt (Gemini/ChatGPT) para refatoração</li>
+        <li><strong>IA (HITL):</strong> Desenvolvimento assistido por IA.</li>
         <li><strong>Versionamento:</strong> Git & GitHub</li>
       </ul>
     </td>
