@@ -69,9 +69,11 @@ Plataforma SaaS de gestão educacional.
 
 **[Ver projeto →](https://eduweb.remotoagencia.com.br/login)**
 
-**⚖️ Rqueiroz advocacia:** Ecossistema digital de alta conversão focado em tráfego pago, com injeção dinâmica de APIs do Google e fluxo assíncrono mobile-first para captação de leads. **[Ver projeto →](https://romuloqueirozadv.com.br/)**
+### ⚖️ Rqueiroz advocacia
+Ecossistema digital de alta conversão focado em tráfego pago, com injeção dinâmica de APIs do Google e fluxo assíncrono mobile-first para captação de leads. **[Ver projeto →](https://romuloqueirozadv.com.br/)**
 
-**🚗 Tanque Digital Pro:** Web App PWA (Local-First) com persistência offline e lógica client-side pura (JavaScript/Tailwind), rodando com latência zero e deploy estático automatizado. **[Ver projeto →](https://esouza15.github.io/Tanque-Virtual/)**
+### 🚗 Tanque Digital Pro
+Web App PWA (Local-First) com persistência offline e lógica client-side pura (JavaScript/Tailwind), rodando com latência zero e deploy estático automatizado. **[Ver projeto →](https://esouza15.github.io/Tanque-Virtual/)**
 
 ---
 
