@@ -1,12 +1,9 @@
-# Olá, eu sou o Esthefison Souza 👋
-
-<div>
-<div>
 <p align="right">
-  🇧🇷 <strong>PT-BR</strong> |
-  <a href="./README.en.md">🇺🇸 English</a>
+  🇧🇷 <strong>PT-BR</strong> &nbsp;|&nbsp;
+  <a href="./README.en.md">🇺🇸 ENG</a>
 </p>
-</div>
+
+# Olá, eu sou o Esthefison Souza 👋
 
 <div align="left">
   <a href="https://www.linkedin.com/in/esthefison-souza-aa00bb292/" target="_blank">
@@ -17,7 +14,6 @@
   </a>
 </div>
 
-</div>
 
 <br>
 
@@ -27,7 +23,7 @@
 
 Engenheiro de Software e Tech Lead com mais de 10 anos de experiência, especializado em traduzir regras de negócio complexas em plataformas escaláveis e de alta disponibilidade. Uno forte visão estratégica de produto à execução técnica de alto nível, dominando desde o backend transacional (PHP/Laravel, Python) e modelagem de bancos de dados, até a arquitetura vanilla frontend e frontend reativos.
 
-Atuo no ciclo completo de desenvolvimento de software (SDLC), atuando com métodos ágeis e arquitetando integrações complexas sobre infraestruturas resilientes em nuvem. Sou pioneiro na adoção de Engenharia Aumentada por IA (HITL), utilizando para auxiar na revisão e refatoração de código, otimização de arquiteturas e ganho exponencial de produtividade, garantindo entregas com absoluto rigor técnico. 
+Atuo no ciclo completo de desenvolvimento de software (SDLC), atuando com métodos ágeis e arquitetando integrações complexas sobre infraestruturas resilientes em nuvem. Também utilizo ferramentas de IA como parte do processo de engenharia, especialmente em revisão, refatoração, análise de código e exploração de alternativas arquiteturais, mantendo validação e decisão técnica humana (HITL).
 
 🎓 **Formação:** Graduado em **Tecnologia da Informação (UFMS)**, com foco em Engenharia de Software e Sistemas Distribuídos.
 
@@ -40,35 +36,42 @@ Minha caixa de ferramentas é focada em **escalabilidade, performance e automaç
 | Categoria  | Tecnologias |
 | ------------- |:-------------:|
 | **Back-end & Arquitetura** | PHP 8+, Laravel, Python, FastAPI, Node.js, APIs RESTful |
-| **Front-end & UI/UX** | JavaScript (ES6+), Vue.js, React, Tailwind CSS, HTML5/CSS3, Figma |
+| **Front-end & UI/UX** | JavaScript, Vue.js, Tailwind CSS, HTML5/CSS3, Figma |
 | **Banco de Dados** | MySQL, MariaDB, SQLite |
 | **Cloud, DevOps & Infra** | AWS (Lightsail), Linux (Ubuntu), Docker, Docker Compose, Nginx, Redis |
-| **CMS & E-commerce** | WordPress Avançado (Headless, Temas/Plugins), WooCommerce, LearnDash |
+| **CMS & E-commerce** | WordPress Avançado (Headless, Temas/Plugins), WooCommerce |
+| **Ferramentas de IA** | Gemini, ChatGPT, Continue, DeepSeek Harness |
 | **Ferramentas & Metodologias** | Git/GitHub, Metodologias Ágeis, SEO Técnico, WPO, IA Generativa (HITL) |
 
 ---
 
-## 🎯 Minhas Metas
+## 🎯 Foco Profissional
 
-* **Curto Prazo:** Liderar a arquitetura de microserviços e integrações complexas em produtos SaaS.
-
-
-* **Médio Prazo:** Aprofundar e escalar iniciativas de Inteligência Artificial Preditiva (Machine Learning) aplicadas a regras de negócio corporativas.
-
-
-* **Longo Prazo:** Atuar como Arquiteto de Software/Staff Engineer global, impulsionando a inovação tecnológica e a experiência do usuário em larga escala.
+- Arquitetura de sistemas SaaS e microsserviços
+- Integrações entre sistemas e APIs
+- Engenharia de software assistida por IA
+- Inteligência de dados e Machine Learning aplicado
+- Performance, escalabilidade e infraestrutura
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-* 🎓 **Eduweb:** SSaaS Single-tenant de Gestão Educacional integrando um core transacional em Laravel com um microsserviço de Inteligência Preditiva em Python (FastAPI/Scikit-Learn) rodando em infraestrutura Docker. **Veja em:** [Eduweb - live preview](https://eduweb.remotoagencia.com.br/login).
+### 🎓 Eduweb
 
+Plataforma SaaS de gestão educacional.
 
-* ⚖️ **Rqueiroz advocacia:** Ecossistema digital de alta conversão focado em tráfego pago, com injeção dinâmica de APIs do Google e fluxo assíncrono mobile-first para captação de leads. **Veja em:** [RQueiroz adv Site](https://romuloqueirozadv.com.br/).
+- **Arquitetura:** Laravel + Python/FastAPI + Docker
+- **Backend:** API e core transacional
+- **Dados:** MySQL
+- **Inteligência:** microsserviço dedicado à análise preditiva
+- **Infraestrutura:** ambiente containerizado
 
+**[Ver projeto →](https://eduweb.remotoagencia.com.br/login)**
 
-* 🚗 **Tanque Digital Pro:** Web App PWA (Local-First) com persistência offline e lógica client-side pura (JavaScript/Tailwind), rodando com latência zero e deploy estático automatizado. **Veja em:** [Tanque Digital Pro](https://esouza15.github.io/Tanque-Virtual/).
+**⚖️ Rqueiroz advocacia:** Ecossistema digital de alta conversão focado em tráfego pago, com injeção dinâmica de APIs do Google e fluxo assíncrono mobile-first para captação de leads. **[Ver projeto →](https://romuloqueirozadv.com.br/)**
+
+**🚗 Tanque Digital Pro:** Web App PWA (Local-First) com persistência offline e lógica client-side pura (JavaScript/Tailwind), rodando com latência zero e deploy estático automatizado. **[Ver projeto →](https://esouza15.github.io/Tanque-Virtual/)**
 
 ---
 
