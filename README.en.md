@@ -1,13 +1,8 @@
+<p align="right">
+  🇺🇸 <strong>ENG</strong> | <a href="./README.md">🇧🇷 PT-BR</a>
+</p>
 
 # Hi there, I'm Esthefison! 👋
-
-<div>
-<div>
-<p align="right">
-  <a href="./README.md">🇧🇷 Português</a> |
-  🇺🇸 <strong>English</strong>
-</p>
-</div>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/esthefison-souza-aa00bb292/" target="_blank">
@@ -18,17 +13,15 @@
   </a>
 </div>
 
-</div>
-
 <br>
 
 ## 👨‍💻 About Me
 
 > **Solutions Architect | Senior Full Stack Software Engineer**
 
-Software Engineer and Tech Lead with over 10 years of experience, specializing in translating complex business rules into scalable, high-availability platforms. I combine a strong strategic product vision with flawless technical execution, mastering everything from transactional backends (PHP/Laravel, Python/FastAPI) and database modeling to vanilla frontend and reactive frontend architectures.
+Software Engineer and Tech Lead with over 10 years of experience, specializing in translating complex business rules into scalable, performance-oriented platforms. I combine a strong strategic product vision with high-level technical execution, with expertise ranging from transactional backends (PHP/Laravel, Python) and database modeling to vanilla frontend interfaces and reactive frameworks.
 
-I operate across the entire software development life cycle (SDLC), adopting an agile methodology and architecting complex integrations on resilient cloud infrastructures. Furthermore, I am an early adopter of AI-Augmented Engineering (HITL), to assist with code review and refactoring, optimize architectures, and exponentially boost productivity while maintaining absolute technical rigor.
+I operate across the entire software development life cycle (SDLC), working with agile methodologies and architecting complex integrations on resilient cloud infrastructures. Furthermore, I use AI tools as part of the engineering process—particularly for review, refactoring, code analysis, and exploring architectural alternatives—while maintaining human validation and technical decision-making (HITL).
 
 🎓 **Education:** Degree in **Information Technology (UFMS)**, with a focus on Software Engineering and Distributed Systems.
 
@@ -45,30 +38,39 @@ My toolkit focuses on **scalability, performance, and automation**.
 | **Databases** | MySQL, MariaDB, SQLite |
 | **Cloud, DevOps & Infra** | AWS (Lightsail), Linux (Ubuntu), Docker, Docker Compose, Nginx, Redis |
 | **CMS & E-commerce** | Advanced WordPress (Headless, Custom Themes/Plugins), WooCommerce, LearnDash |
+| **AI Tools** | Gemini, ChatGPT, Continue, DeepSeek Harness |
 | **Tools & Methodologies** | Git/GitHub, Agile Methodologies, Technical SEO, WPO, Generative AI (HITL) |
 
 ---
 
-## 🎯 My Goals
+## 🎯 Professional Focus
 
-* **Short-term:** Lead microservices architecture and complex integrations in SaaS products.
-
-
-* **Medium-term:** Deepen and scale Predictive Artificial Intelligence (Machine Learning) initiatives applied to corporate business rules.
-
-
-* **Long-term:** Act as a Global Software Architect/Staff Engineer, driving technological innovation and user experience at scale.
+* SaaS system and microservices architecture
+* System and API integrations
+* AI-assisted software engineering
+* Data intelligence and applied Machine Learning
+* Performance, scalability, and infrastructure
 
 ---
-## 🚀 Featured Projects (Showcase)
+## 🚀 Featured Projects
 
-* 🎓 **Eduweb:** Single-tenant SaaS for Educational Management integrating a transactional Laravel core with a Predictive Intelligence microservice in Python (FastAPI/Scikit-Learn) running on a Docker infrastructure. **See more:** [Eduweb - live preview](https://eduweb.remotoagencia.com.br/login).
+### 🎓 Eduweb
 
+SaaS platform for educational management.
 
-* ⚖️ **Rqueiroz advocacia:** High-conversion digital ecosystem focused on paid traffic, featuring dynamic Google API injection and a mobile-first asynchronous workflow for lead capture. **See more:** [RQueiroz Website](https://romuloqueirozadv.com.br/).
+- **Architecture:** Laravel + Python/FastAPI + Docker
+- **Backend:** API and transactional core
+- **Data:** MySQL
+- **Intelligence:** dedicated microservice for predictive analytics
+- **Infrastructure:** containerized environment
 
+**[View project →](https://eduweb.remotoagencia.com.br/login)**
 
-* 🚗 **Tanque Digital Pro:** Local-First PWA Web App with offline persistence and pure client-side logic (JavaScript/Tailwind), running with zero latency and automated static deployment. **See more:** [Tanque Digital Pro](https://esouza15.github.io/Tanque-Virtual/).
+### ⚖️ Rqueiroz advocacia
+High-conversion digital ecosystem focused on paid traffic, featuring dynamic Google API integration and a mobile-first asynchronous workflow for lead capture. **[View project →](https://romuloqueirozadv.com.br/)**
+
+### 🚗 Tanque Digital Pro
+Local-First PWA Web App with offline persistence and pure client-side logic (JavaScript/Tailwind), optimized for low-latency operation and automated static deployment. **[View project →](https://esouza15.github.io/Tanque-Virtual/)**
 
 ---
 
