@@ -1,5 +1,13 @@
 # Olá, eu sou o Esthefison Souza 👋
 
+<div>
+<div>
+<p align="right">
+  🇧🇷 <strong>PT-BR</strong> |
+  <a href="./README.en.md">🇺🇸 English</a>
+</p>
+</div>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/esthefison-souza-aa00bb292/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -9,74 +17,62 @@
   </a>
 </div>
 
+</div>
+
 <br>
 
 ## 👨‍💻 Sobre Mim
 
 > **Engenheiro de Software Full Stack | Arquiteto de Soluções Web**
 
-Engenheiro de Software Full Stack - Arquiteto de Soluções Web, com mais de 10 anos de experiência na interseção entre **Sistema Web e Negócios**. Atuo na concepção e desenvolvimento de produtos digitais escaláveis, performáticos e orientados a resultado.
+Engenheiro de Software e Tech Lead com mais de 10 anos de experiência, especializado em traduzir regras de negócio complexas em plataformas escaláveis e de alta disponibilidade. Uno forte visão estratégica de produto à execução técnica de alto nível, dominando desde o backend transacional (PHP/Laravel, Python) e modelagem de bancos de dados, até a arquitetura vanilla frontend e frontend reativos.
 
-Especializado em PHP (**Laravel** e ecossistema **WordPress customizado**), **Python** e **UI Engineering** (Tailwind CSS/Blade). Experiência end-to-end na entrega de aplicações dinâmicas e produtos SaaS, combinando modelagem relacional robusta, DevOps (Docker), **gestão ágil** com stakeholders e liderança de parceiros remotos.
+Atuo no ciclo completo de desenvolvimento de software (SDLC), atuando com métodos ágeis e arquitetando integrações complexas sobre infraestruturas resilientes em nuvem. Sou pioneiro na adoção de Engenharia Aumentada por IA (HITL), utilizando para auxiar na revisão e refatoração de código, otimização de arquiteturas e ganho exponencial de produtividade, garantindo entregas com absoluto rigor técnico. 
 
 🎓 **Formação:** Graduado em **Tecnologia da Informação (UFMS)**, com foco em Engenharia de Software e Sistemas Distribuídos.
 
 ---
 
-## 🚀 Stack & Ferramentas
+## 🛠️ Stack & Ferramentas
 
 Minha caixa de ferramentas é focada em **escalabilidade, performance e automação**.
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>⚙️ Back-end & Arquitetura</h3>
-      <ul>
-        <li><strong>Linguagens:</strong> PHP - Laravel, Python (Automação)</li>
-        <li><strong>WordPress Core:</strong> Desenvolvimento de Temas & Plugins, Hooks API</li>
-        <li><strong>Banco de Dados:</strong> MySQL, Otimização de Queries</li>
-        <li><strong>Infra:</strong> Linux, Apache, AWS.</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>🎨 Front-end & UI Engineering</h3>
-      <ul>
-        <li><strong>Core:</strong> JavaScript (ES6+), HTML5 Semântico, CSS3</li>
-        <li><strong>Frameworks:</strong> Tailwind CSS, Bootstrap, jQuery</li>
-        <li><strong>Design to Code:</strong> Figma (Pixel-Perfect Implementation)</li>
-        <li><strong>Performance:</strong> Core Web Vitals, Lazy Loading, Minification</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>📈 Dados & Estratégia</h3>
-      <ul>
-        <li><strong>Analytics:</strong> GA4, Google Tag Manager (Implementação Técnica)</li>
-        <li><strong>SEO Técnico:</strong> Schema Markup, Yoast/RankMath</li>
-        <li><strong>IA (HITL):</strong> Desenvolvimento assistido por IA.</li>
-        <li><strong>Versionamento:</strong> Git & GitHub</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Categoria  | Tecnologias |
+| ------------- |:-------------:|
+| **Back-end & Arquitetura** | PHP 8+, Laravel, Python, FastAPI, Node.js, APIs RESTful |
+| **Front-end & UI/UX** | JavaScript (ES6+), Vue.js, React, Tailwind CSS, HTML5/CSS3, Figma |
+| **Banco de Dados** | MySQL, MariaDB, SQLite |
+| **Cloud, DevOps & Infra** | AWS (Lightsail), Linux (Ubuntu), Docker, Docker Compose, Nginx, Redis |
+| **CMS & E-commerce** | WordPress Avançado (Headless, Temas/Plugins), WooCommerce, LearnDash |
+| **Ferramentas & Metodologias** | Git/GitHub, Metodologias Ágeis, SEO Técnico, WPO, IA Generativa (HITL) |
 
 ---
 
-## ⚡ O que estou construindo agora
-* 🔭 Focando em **Arquitetura de Soluções** e integração de microsserviços.
-* 🌱 Aprofundando estudos em **Headless WordPress** e **React**.
-* 🤖 Criando automações com **Python e IA** para otimizar fluxos de desenvolvimento.
+## 🎯 Minhas Metas
+
+* **Curto Prazo:** Liderar a arquitetura de microserviços e integrações complexas em produtos SaaS.
+
+
+* **Médio Prazo:** Aprofundar e escalar iniciativas de Inteligência Artificial Preditiva (Machine Learning) aplicadas a regras de negócio corporativas.
+
+
+* **Longo Prazo:** Atuar como Arquiteto de Software/Staff Engineer global, impulsionando a inovação tecnológica e a experiência do usuário em larga escala.
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevensonsda&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevensonsda&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
+## 🚀 Projetos em Destaque
+
+* 🎓 **Eduweb:** SSaaS Single-tenant de Gestão Educacional integrando um core transacional em Laravel com um microsserviço de Inteligência Preditiva em Python (FastAPI/Scikit-Learn) rodando em infraestrutura Docker. **Veja em:** [Eduweb - live preview](https://eduweb.remotoagencia.com.br/login).
+
+
+* ⚖️ **Rqueiroz advocacia:** Ecossistema digital de alta conversão focado em tráfego pago, com injeção dinâmica de APIs do Google e fluxo assíncrono mobile-first para captação de leads. **Veja em:** [RQueiroz adv Site](https://romuloqueirozadv.com.br/).
+
+
+* 🚗 **Tanque Digital Pro:** Web App PWA (Local-First) com persistência offline e lógica client-side pura (JavaScript/Tailwind), rodando com latência zero e deploy estático automatizado. **Veja em:** [Tanque Digital Pro](https://esouza15.github.io/Tanque-Virtual/).
 
 ---
 
-## 📫 Vamos Conectar?
+## 📫 Outras redes
 
-Se você busca um desenvolvedor que entende tanto de **código** quanto de **ROI**, vamos conversar.
 
 - **LinkedIn:** [linkedin.com/in/esthefison](https://www.linkedin.com/in/esthefison-souza-aa00bb292/)
