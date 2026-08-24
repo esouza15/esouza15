@@ -21,9 +21,9 @@
 
 > **Engenheiro de Software Full Stack | Arquiteto de Soluções Web**
 
-Engenheiro de Software e Tech Lead com mais de 10 anos de experiência, especializado em traduzir regras de negócio complexas em plataformas escaláveis e de alta disponibilidade. Uno forte visão estratégica de produto à execução técnica de alto nível, dominando desde o backend transacional (PHP/Laravel, Python) e modelagem de bancos de dados, até a arquitetura vanilla frontend e frontend reativos.
+Engenheiro de Software e Tech Lead com mais de 10 anos de experiência, especializado em traduzir regras de negócio complexas em platplataformas escaláveis e orientadas a performance. Uno forte visão estratégica de produto à execução técnica de alto nível, dominando desde o backend transacional (PHP/Laravel, Python) e modelagem de bancos de dados, até interfaces frontend vanilla e frameworks reativos.
 
-Atuo no ciclo completo de desenvolvimento de software (SDLC), atuando com métodos ágeis e arquitetando integrações complexas sobre infraestruturas resilientes em nuvem. Também utilizo ferramentas de IA como parte do processo de engenharia, especialmente em revisão, refatoração, análise de código e exploração de alternativas arquiteturais, mantendo validação e decisão técnica humana (HITL).
+Atuo no ciclo completo de desenvolvimento de software (SDLC), aplicando métodos ágeis e arquitetando integrações complexas sobre infraestruturas resilientes em nuvem. Também utilizo ferramentas de IA como parte do processo de engenharia, especialmente em revisão, refatoração, análise de código e exploração de alternativas arquiteturais, mantendo validação e decisão técnica humana (HITL).
 
 🎓 **Formação:** Graduado em **Tecnologia da Informação (UFMS)**, com foco em Engenharia de Software e Sistemas Distribuídos.
 
