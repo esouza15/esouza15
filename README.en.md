@@ -64,16 +64,16 @@ SaaS platform for educational management.
 - **Intelligence:** dedicated microservice for predictive analytics
 - **Infrastructure:** containerized environment
 
-**[View project →](https://eduweb.remotoagencia.com.br/login)**
+**<a href="https://eduweb.remotoagencia.com.br/login" target="_blank" rel="noopener noreferrer">View Project →</a>**
 
 ### ⚖️ Rqueiroz advocacia
-High-conversion digital ecosystem focused on paid traffic, featuring dynamic Google API integration and a mobile-first asynchronous workflow for lead capture. **[View project →](https://romuloqueirozadv.com.br/)**
+High-conversion digital ecosystem focused on paid traffic, featuring dynamic Google API integration and a mobile-first asynchronous workflow for lead capture. **<a href="https://romuloqueirozadv.com.br/" target="_blank" rel="noopener noreferrer">View Project →</a>**
 
 ### 🚗 Tanque Digital Pro
-Local-First PWA Web App with offline persistence and pure client-side logic (JavaScript/Tailwind), optimized for low-latency operation and automated static deployment. **[View project →](https://esouza15.github.io/Tanque-Virtual/)**
+Local-First PWA Web App with offline persistence and pure client-side logic (JavaScript/Tailwind), optimized for low-latency operation and automated static deployment. **<a href="https://esouza15.github.io/Tanque-Virtual/" target="_blank" rel="noopener noreferrer">View Project →</a>**
 
 ---
 
 ## 📫 Other channels
 
-- **LinkedIn:** [linkedin.com/in/esthefison](https://www.linkedin.com/in/esthefison-souza-aa00bb292/)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/esthefison-souza-aa00bb292/" target="_blank" rel="noopener noreferrer">linkedin.com/in/esthefison</a>
