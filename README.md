@@ -70,7 +70,7 @@ Plataforma SaaS de gestão educacional.
 **[Ver projeto →](https://eduweb.remotoagencia.com.br/login)**
 
 ### 🤖 Mini Curso de IA para Negócios
-Landing Page de alta conversão para WordPress, arquitetura de curso LMS (LearnDash), UX/UI responsivo (Mobile-First) e estratégia integrada de Copywriting & SEO On-Page. **[Ver projeto →](https://github.com/esouza15/Landing-Page-Minicurso-de-IA-para-Negocios)**
+Landing Page de alta conversão em modo template PHP para WordPress, arquitetura de curso LMS (LearnDash), UX/UI responsivo (Mobile-First) e estratégia integrada de Copywriting & SEO On-Page. **[Ver projeto →](https://github.com/esouza15/Landing-Page-Minicurso-de-IA-para-Negocios)**
 
 ### ⚖️ Rqueiroz advocacia
 Website de alta conversão focado em tráfego pago, com injeção dinâmica de APIs do Google e fluxo assíncrono mobile-first para captação de leads. **[Ver projeto →](https://romuloqueirozadv.com.br/)**
