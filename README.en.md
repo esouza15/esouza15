@@ -66,11 +66,11 @@ SaaS platform for educational management.
 
 **[View project →](https://eduweb.remotoagencia.com.br/login)**
 
+### 🤖 Mini Curso de IA para Negócios (AI for Business Course)
+High-converting landing page built as a native PHP template for WordPress, featuring LMS course architecture (LearnDash), responsive UX/UI (mobile-first), and an integrated copywriting and on-page SEO strategy. **[View project →](https://github.com/esouza15/Landing-Page-Minicurso-de-IA-para-Negocios)**
+
 ### ⚖️ Rqueiroz advocacia
 High-conversion digital ecosystem focused on paid traffic, featuring dynamic Google API integration and a mobile-first asynchronous workflow for lead capture. **[View project →](https://romuloqueirozadv.com.br/)**
-
-### 🚗 Tanque Digital Pro
-Local-First PWA Web App with offline persistence and pure client-side logic (JavaScript/Tailwind), optimized for low-latency operation and automated static deployment. **[View project →](https://esouza15.github.io/Tanque-Virtual/)**
 
 ---
 
