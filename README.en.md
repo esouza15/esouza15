@@ -17,11 +17,9 @@
 
 ## 👨‍💻 About Me
 
-> **Solutions Architect | Senior Full Stack Software Engineer**
+> **Software Architect | Senior Full Stack Software Engineer**
 
-Software Engineer and Tech Lead with over 10 years of experience, specializing in translating complex business rules into scalable, performance-oriented platforms. I combine a strong strategic product vision with high-level technical execution, with expertise ranging from transactional backends (PHP/Laravel, Python) and database modeling to vanilla frontend interfaces and reactive frameworks.
-
-I operate across the entire software development life cycle (SDLC), working with agile methodologies and architecting complex integrations on resilient cloud infrastructures. Furthermore, I use AI tools as part of the engineering process—particularly for review, refactoring, code analysis, and exploring architectural alternatives—while maintaining human validation and technical decision-making (HITL).
+Full Stack Software Engineer with experience in software architecture, development, and end-to-end evolution of web applications and SaaS products. Backend expertise with PHP/Laravel and Python/FastAPI, API integration, relational databases, Docker, Linux, and AWS, as well as the development of responsive web interfaces. Experience in Software Architecture, DevOps, CI/CD, automated testing, and technical leadership. Proficient in AI-Assisted Software Development with Human-in-the-Loop approaches for code generation, refactoring, debugging, and validation.
 
 🎓 **Education:** Degree in **Information Technology (UFMS)**, with a focus on Software Engineering and Distributed Systems.
 
