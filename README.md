@@ -1,5 +1,5 @@
 <p align="right">
-  🇧🇷 <strong>PT-BR</strong> &nbsp;|&nbsp;
+  🇧🇷 <strong>PT-BR</strong>  | 
   <a href="./README.en.md">🇺🇸 ENG</a>
 </p>
 
@@ -14,16 +14,13 @@
   </a>
 </div>
 
-
 <br>
 
 ## 👨‍💻 Sobre Mim
 
-> **Engenheiro de Software Full Stack | Arquiteto de Soluções Web**
+> **Engenheiro de Software Full Stack | Arquiteto de Software**
 
-Engenheiro de Software e Tech Lead com mais de 10 anos de experiência, especializado em traduzir regras de negócio complexas em platplataformas escaláveis e orientadas a performance. Uno forte visão estratégica de produto à execução técnica de alto nível, dominando desde o backend transacional (PHP/Laravel, Python) e modelagem de bancos de dados, até interfaces frontend vanilla e frameworks reativos.
-
-Atuo no ciclo completo de desenvolvimento de software (SDLC), aplicando métodos ágeis e arquitetando integrações complexas sobre infraestruturas resilientes em nuvem. Também utilizo ferramentas de IA como parte do processo de engenharia, especialmente em revisão, refatoração, análise de código e exploração de alternativas arquiteturais, mantendo validação e decisão técnica humana (HITL).
+Engenheiro de Software Full Stack com experiência em arquitetura, desenvolvimento e evolução end-to-end de aplicações web e produtos SaaS. Atuação em backend com PHP/Laravel e Python/FastAPI, integração de APIs, bancos relacionais, Docker, Linux e AWS, além de desenvolvimento de interfaces web responsivas. Experiência em Software Architecture, DevOps, CI/CD, testes automatizados e liderança técnica. Utilização de AI-Assisted Software Development com Human-in-the-Loop para geração, refatoração, debugging e validação de código.
 
 🎓 **Formação:** Graduado em **Tecnologia da Informação (UFMS)**, com foco em Engenharia de Software e Sistemas Distribuídos.
 
@@ -33,21 +30,21 @@ Atuo no ciclo completo de desenvolvimento de software (SDLC), aplicando métodos
 
 Minha caixa de ferramentas é focada em **escalabilidade, performance e automação**.
 
-| Categoria  | Tecnologias |
-| ------------- |:-------------:|
-| **Back-end & Arquitetura** | PHP 8+, Laravel, Python, FastAPI, Node.js, APIs RESTful |
-| **Front-end & UI/UX** | JavaScript, Vue.js, Tailwind CSS, HTML5/CSS3, Figma |
-| **Banco de Dados** | MySQL, MariaDB, SQLite |
-| **Cloud, DevOps & Infra** | AWS (Lightsail), Linux (Ubuntu), Docker, Docker Compose, Nginx, Redis |
-| **CMS & E-commerce** | WordPress Avançado (Headless, Temas/Plugins), WooCommerce |
-| **Ferramentas de IA** | Gemini, ChatGPT, Continue, DeepSeek Harness |
+| Categoria                      | Tecnologias                                                            |
+| ------------------------------ |:----------------------------------------------------------------------:|
+| **Back-end & Arquitetura**     | PHP 8+, Laravel, Python, FastAPI, Node.js, APIs RESTful                |
+| **Front-end & UI/UX**          | JavaScript, Vue.js, Tailwind CSS, HTML5/CSS3, Figma                    |
+| **Banco de Dados**             | MySQL, MariaDB, SQLite                                                 |
+| **Cloud, DevOps & Infra**      | AWS (Lightsail), Linux (Ubuntu), Docker, Docker Compose, Nginx, Redis  |
+| **CMS & E-commerce**           | WordPress Avançado (Headless, Temas/Plugins), WooCommerce              |
+| **Ferramentas de IA**          | Gemini, ChatGPT, Continue, DeepSeek Harness                            |
 | **Ferramentas & Metodologias** | Git/GitHub, Metodologias Ágeis, SEO Técnico, WPO, IA Generativa (HITL) |
 
 ---
 
 ## 🎯 Foco Profissional
 
-- Arquitetura de sistemas SaaS e microsserviços
+- Arquitetura de sistemas e microsserviços
 - Integrações entre sistemas e APIs
 - Engenharia de software assistida por IA
 - Inteligência de dados e Machine Learning aplicado
@@ -70,14 +67,15 @@ Plataforma SaaS de gestão educacional.
 **[Ver projeto →](https://eduweb.remotoagencia.com.br/login)**
 
 ### 🤖 Mini Curso de IA para Negócios
+
 Landing Page de alta conversão em modo template PHP para WordPress, arquitetura de curso LMS (LearnDash), UX/UI responsivo (Mobile-First) e estratégia integrada de Copywriting & SEO On-Page. **[Ver projeto →](https://github.com/esouza15/Landing-Page-Minicurso-de-IA-para-Negocios)**
 
 ### ⚖️ Rqueiroz advocacia
+
 Website de alta conversão focado em tráfego pago, com injeção dinâmica de APIs do Google e fluxo assíncrono mobile-first para captação de leads. **[Ver projeto →](https://romuloqueirozadv.com.br/)**
 
 ---
 
 ## 📫 Outras redes
-
 
 - **LinkedIn:** [linkedin.com/in/esthefison](https://www.linkedin.com/in/esthefison-souza-aa00bb292/)
